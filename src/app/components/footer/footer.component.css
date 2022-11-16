@@ -1,0 +1,41 @@
+/* El Footer */
+
+footer {
+    background: darkblue;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+    bottom: 0;
+}
+
+.contenidor-footer {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+    bottom: 0;
+}
+
+.contenidor-foo {
+    text-align: center;
+}
+
+.contenidor-foo h4 {
+    color: #fff;
+    border-bottom: 3px solid #f6f5f7;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.contenidor-foo p {
+    color: #f6f5f7;
+}
+
+.titol-final {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0 0 0;
+    color: #f6f5f7;
+}
