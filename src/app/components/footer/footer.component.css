@@ -1,10 +1,11 @@
 /* El Footer */
-
-footer {
+.footer {
     background: darkblue;
     padding: 60px 0 30px 0;
     margin: auto;
+    width: 100%;
     overflow: hidden;
+    position: fixed;
     bottom: 0;
 }
 
