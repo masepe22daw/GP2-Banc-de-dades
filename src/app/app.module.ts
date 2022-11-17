@@ -11,6 +11,7 @@ import { MenuComponent } from './components/menu/menu.component';
 import { ContingutComponent } from './components/contingut/contingut.component';
 import { SliderComponent } from './components/slider/slider.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { BolaDelMonComponent } from './components/bola-del-mon/bola-del-mon.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { FooterComponent } from './components/footer/footer.component';
     MenuComponent,
     ContingutComponent,
     SliderComponent,
-    FooterComponent
+    FooterComponent,
+    BolaDelMonComponent
   ],
   imports: [
     BrowserModule,
