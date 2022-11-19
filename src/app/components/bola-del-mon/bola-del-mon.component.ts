@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import * as data from 'src/assets/dadesA.json'
 
 @Component({
   selector: 'app-bola-del-mon',
@@ -13,3 +14,12 @@ export class BolaDelMonComponent implements OnInit {
   }
 
 }
+
+for(let ind in data){
+  if(data[ind]['Series_Code']=='SI.DST.50MD'&& data[ind]['YR2003']!='..'){
+    console.log(data[ind]['Country_Name'] +" "+ data[ind]['YR2003']);
+  }
+}
+
+
+
