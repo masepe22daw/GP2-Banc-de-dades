@@ -30,7 +30,7 @@ const indicadores: indicador[] = dadesB;
   styleUrls: ['./tabla-datos.component.css']
 })
 export class TablaDatosComponent implements OnInit {
-  displayedColumns: string[] = ['Country_Name', 'Country_Code', 'Series_Name', 'Series_Code','YR2012', 'YR2013', 'YR2015', 'YR2016', 'YR2017', 'YR2018', 'YR2019', 'YR2020', 'YR2021'];
+  displayedColumns: string[] = ['Country_Name', 'Series_Name','YR2012', 'YR2013', 'YR2015', 'YR2016', 'YR2017', 'YR2018', 'YR2019', 'YR2020', 'YR2021'];
   dataSource = new MatTableDataSource(indicadores)
 
   @ViewChild(MatPaginator) paginator!: MatPaginator;

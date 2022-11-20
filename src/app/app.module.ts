@@ -15,6 +15,8 @@ import { BolaDelMonComponent } from './components/bola-del-mon/bola-del-mon.comp
 import { MatSortModule } from '@angular/material/sort';
 import { TablaDatosComponent } from './components/tabla-datos/tabla-datos.component';
 import { GraficsComponent } from './components/grafics/grafics.component';
+import { SliceWordsPipe } from './components/tabla-datos/slice-words.pipe';
+import { NumberDecimalPipe } from './components/tabla-datos/number-decimal.pipe';
 
 
 @NgModule({
@@ -26,6 +28,8 @@ import { GraficsComponent } from './components/grafics/grafics.component';
     BolaDelMonComponent,
     TablaDatosComponent,
     GraficsComponent,
+    SliceWordsPipe,
+    NumberDecimalPipe,
   ],
   imports: [
     BrowserModule,
