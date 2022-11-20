@@ -19,6 +19,7 @@ import { SliceWordsPipe } from './components/tabla-datos/slice-words.pipe';
 import { NumberDecimalPipe } from './components/tabla-datos/number-decimal.pipe';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,
