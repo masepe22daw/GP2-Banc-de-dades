@@ -36,7 +36,7 @@ import { TablaDatosComponent } from './components/tabla-datos/tabla-datos.compon
     MatSidenavModule,
     MatListModule,
     MatPaginatorModule,
-    MatSortModule
+    MatSortModule,
   ],
   schemas: [ CUSTOM_ELEMENTS_SCHEMA ],
   providers: [],

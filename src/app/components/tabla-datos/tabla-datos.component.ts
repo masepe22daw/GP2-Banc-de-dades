@@ -1,5 +1,9 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
+import { MatPaginator } from '@angular/material/paginator';
+import { MatTableDataSource } from '@angular/material/table';
+
 import dadesB from 'src/assets/dadesB.json';
+
 
 export interface indicador {
   Country_Name: string ,
@@ -27,11 +31,17 @@ const indicadores: indicador[] = dadesB;
 })
 export class TablaDatosComponent implements OnInit {
   displayedColumns: string[] = ['Country_Name', 'Country_Code', 'Series_Name', 'Series_Code','YR2012', 'YR2013', 'YR2015', 'YR2016', 'YR2017', 'YR2018', 'YR2019', 'YR2020', 'YR2021'];
-  dataSource = indicadores
-  constructor() { 
-    console.log(indicadores[1].Country_Name)
-  }
+  dataSource = new MatTableDataSource(indicadores)
+
+  @ViewChild(MatPaginator) paginator!: MatPaginator;
+  
+  constructor() {  }
 
   ngOnInit(): void {
   }
-}
+
+  ngAfterViewInit() {
+    this.dataSource.paginator = this.paginator;
+  }
+  
+}  
