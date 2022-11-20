@@ -10,7 +10,6 @@ import { MatPaginatorModule} from '@angular/material/paginator';
 import { MenuComponent } from './components/menu/menu.component';
 import { MatTableModule } from '@angular/material/table' 
 import { ContingutComponent } from './components/contingut/contingut.component';
-import { SliderComponent } from './components/slider/slider.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { BolaDelMonComponent } from './components/bola-del-mon/bola-del-mon.component';
 import { MatSortModule } from '@angular/material/sort';
@@ -22,7 +21,6 @@ import { TablaDatosComponent } from './components/tabla-datos/tabla-datos.compon
     AppComponent,
     MenuComponent,
     ContingutComponent,
-    SliderComponent,
     FooterComponent,
     BolaDelMonComponent,
     TablaDatosComponent,
