@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import * as dadesB from 'src/assets/dadesB.json';
+import dadesB from 'src/assets/dadesB.json';
 
 export interface indicador {
   Country_Name: string ,
@@ -18,17 +18,19 @@ export interface indicador {
   YR2021: number
 }
 
-const ELEMENT_DATA: indicador[] = dadesB;
-console.log(ELEMENT_DATA[0]['Country_Name'])
+const indicadores: indicador[] = dadesB;
+
 @Component({
   selector: 'app-tabla-datos',
   templateUrl: './tabla-datos.component.html',  
   styleUrls: ['./tabla-datos.component.css']
 })
 export class TablaDatosComponent implements OnInit {
-  displayedColumns: string[] = ['Country_Name', 'Country_Code', 'Series_Name', 'Series_Code'];
-  dataSource = ELEMENT_DATA
-  constructor() { }
+  displayedColumns: string[] = ['Country_Name', 'Country_Code', 'Series_Name', 'Series_Code','YR2012', 'YR2013', 'YR2015', 'YR2016', 'YR2017', 'YR2018', 'YR2019', 'YR2020', 'YR2021'];
+  dataSource = indicadores
+  constructor() { 
+    console.log(indicadores[1].Country_Name)
+  }
 
   ngOnInit(): void {
   }
