@@ -14,6 +14,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { BolaDelMonComponent } from './components/bola-del-mon/bola-del-mon.component';
 import { MatSortModule } from '@angular/material/sort';
 import { TablaDatosComponent } from './components/tabla-datos/tabla-datos.component';
+import { GraficsComponent } from './components/grafics/grafics.component';
 
 
 @NgModule({
@@ -24,6 +25,7 @@ import { TablaDatosComponent } from './components/tabla-datos/tabla-datos.compon
     FooterComponent,
     BolaDelMonComponent,
     TablaDatosComponent,
+    GraficsComponent,
   ],
   imports: [
     BrowserModule,
