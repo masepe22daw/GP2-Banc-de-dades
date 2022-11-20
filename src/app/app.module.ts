@@ -6,13 +6,15 @@ import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatIconModule } from '@angular/material/icon';
 import { MatListModule} from '@angular/material/list';
+import { MatPaginatorModule} from '@angular/material/paginator';
 import { MenuComponent } from './components/menu/menu.component';
 import { MatTableModule } from '@angular/material/table' 
 import { ContingutComponent } from './components/contingut/contingut.component';
 import { SliderComponent } from './components/slider/slider.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { BolaDelMonComponent } from './components/bola-del-mon/bola-del-mon.component';
-import { TaulaComponent } from './components/taula/taula.component';
+import { MatSortModule } from '@angular/material/sort';
+import { TablaDatosComponent } from './components/tabla-datos/tabla-datos.component';
 
 
 @NgModule({
@@ -23,8 +25,7 @@ import { TaulaComponent } from './components/taula/taula.component';
     SliderComponent,
     FooterComponent,
     BolaDelMonComponent,
-    TaulaComponent,
-    
+    TablaDatosComponent,
   ],
   imports: [
     BrowserModule,
@@ -33,7 +34,9 @@ import { TaulaComponent } from './components/taula/taula.component';
     MatIconModule,
     MatTableModule,
     MatSidenavModule,
-    MatListModule
+    MatListModule,
+    MatPaginatorModule,
+    MatSortModule
   ],
   schemas: [ CUSTOM_ELEMENTS_SCHEMA ],
   providers: [],

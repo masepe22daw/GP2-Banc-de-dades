@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import * as data from 'src/assets/dadesA.json'
+import * as dataB from 'src/assets/dadesB.json'
 
 @Component({
   selector: 'app-bola-del-mon',
@@ -14,12 +14,12 @@ export class BolaDelMonComponent implements OnInit {
   }
 
 }
-
-for(let ind in data){
-  if(data[ind]['Series_Code']=='SI.DST.50MD'&& data[ind]['YR2003']!='..'){
-    console.log(data[ind]['Country_Name'] +" "+ data[ind]['YR2003']);
+/*
+for(let ind in dataB){
+  if(dataB[ind]['Series_Code']=='ER.H2O.FWDM.ZS'&& dataB[ind]['YR2012']!='..'){
+    console.log(dataB[ind]['Country_Name'] +" "+ dataB[ind]['YR2012']);
   }
 }
-
+*/
 
 
