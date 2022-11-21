@@ -19,7 +19,8 @@ import { NumberDecimalPipe } from './components/tabla-datos/number-decimal.pipe'
 import { AppRoutingModule } from './app-routing.module';
 import { IniciComponent } from './components/inici/inici.component';
 import { MatSelectModule } from '@angular/material/select';
-
+import { MatInputModule } from '@angular/material/input';
+import { MatFormFieldModule } from "@angular/material/form-field";
 
 
 
@@ -47,7 +48,9 @@ import { MatSelectModule } from '@angular/material/select';
     MatPaginatorModule,
     MatSortModule,
     AppRoutingModule,
-    MatSelectModule
+    MatSelectModule,
+    MatInputModule,
+    MatFormFieldModule
 
   ],
   schemas: [CUSTOM_ELEMENTS_SCHEMA],
