@@ -5,18 +5,20 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatIconModule } from '@angular/material/icon';
-import { MatListModule} from '@angular/material/list';
-import { MatPaginatorModule} from '@angular/material/paginator';
+import { MatListModule } from '@angular/material/list';
+import { MatPaginatorModule } from '@angular/material/paginator';
 import { MenuComponent } from './components/menu/menu.component';
-import { MatTableModule } from '@angular/material/table' 
+import { MatTableModule } from '@angular/material/table'
 import { ContingutComponent } from './components/contingut/contingut.component';
 import { FooterComponent } from './components/footer/footer.component';
-import { BolaDelMonComponent } from './components/bola-del-mon/bola-del-mon.component';
 import { MatSortModule } from '@angular/material/sort';
 import { TablaDatosComponent } from './components/tabla-datos/tabla-datos.component';
 import { GraficsComponent } from './components/grafics/grafics.component';
 import { SliceWordsPipe } from './components/tabla-datos/slice-words.pipe';
 import { NumberDecimalPipe } from './components/tabla-datos/number-decimal.pipe';
+import { AppRoutingModule } from './app-routing.module';
+import { IniciComponent } from './components/inici/inici.component';
+
 
 
 
@@ -26,11 +28,11 @@ import { NumberDecimalPipe } from './components/tabla-datos/number-decimal.pipe'
     MenuComponent,
     ContingutComponent,
     FooterComponent,
-    BolaDelMonComponent,
     TablaDatosComponent,
     GraficsComponent,
     SliceWordsPipe,
     NumberDecimalPipe,
+    IniciComponent,
   ],
   imports: [
     BrowserModule,
@@ -42,8 +44,10 @@ import { NumberDecimalPipe } from './components/tabla-datos/number-decimal.pipe'
     MatListModule,
     MatPaginatorModule,
     MatSortModule,
+    AppRoutingModule
+
   ],
-  schemas: [ CUSTOM_ELEMENTS_SCHEMA ],
+  schemas: [CUSTOM_ELEMENTS_SCHEMA],
   providers: [],
   bootstrap: [AppComponent]
 })
