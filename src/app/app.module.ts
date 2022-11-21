@@ -17,8 +17,12 @@ import { GraficsComponent } from './components/grafics/grafics.component';
 import { SliceWordsPipe } from './components/tabla-datos/slice-words.pipe';
 import { NumberDecimalPipe } from './components/tabla-datos/number-decimal.pipe';
 import { AppRoutingModule } from './app-routing.module';
+<<<<<<< HEAD
 import { IniciComponent } from './components/inici/inici.component';
 
+=======
+import { MatSelectModule } from '@angular/material/select';
+>>>>>>> 2673950f7a44d62ea535805e9b79937b0744c9f5
 
 
 
@@ -32,7 +36,12 @@ import { IniciComponent } from './components/inici/inici.component';
     GraficsComponent,
     SliceWordsPipe,
     NumberDecimalPipe,
+<<<<<<< HEAD
     IniciComponent,
+=======
+
+
+>>>>>>> 2673950f7a44d62ea535805e9b79937b0744c9f5
   ],
   imports: [
     BrowserModule,
@@ -44,8 +53,13 @@ import { IniciComponent } from './components/inici/inici.component';
     MatListModule,
     MatPaginatorModule,
     MatSortModule,
+<<<<<<< HEAD
     AppRoutingModule
 
+=======
+    AppRoutingModule,
+    MatSelectModule,
+>>>>>>> 2673950f7a44d62ea535805e9b79937b0744c9f5
   ],
   schemas: [CUSTOM_ELEMENTS_SCHEMA],
   providers: [],
