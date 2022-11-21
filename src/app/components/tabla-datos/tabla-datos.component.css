@@ -1,13 +1,14 @@
-div{
-    margin-top: 1%;
-    width: 90%;
-    margin-left: 5%;
+div {
+  margin-top: 1%;
+  width: 90%;
+  margin-left: 5%;
 }
+
 table {
   width: 100%;
 }
 
 .mat-mdc-form-field {
-    font-size: 14px;
-    width: 100%;
-  }
+  font-size: 14px;
+  width: 100%;
+}
