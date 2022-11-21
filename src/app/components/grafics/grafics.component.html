@@ -1,1 +1,25 @@
-<p>grafics works!</p>
+
+<div>
+    <h4>Select Indicator</h4>
+    <mat-form-field appearance="fill">
+        <mat-label>Indicator</mat-label>
+        <mat-select>
+          <mat-option *ngFor="let ind of inds" [value]="ind">
+            {{ind}}
+          </mat-option>
+        </mat-select>   
+      </mat-form-field>
+    <h4>Select Country</h4>
+    <mat-form-field appearance="fill">
+        <mat-label>Country</mat-label>
+        <mat-select>
+          <mat-option *ngFor="let ind of country" [value]="ind">
+            {{ind}}
+          </mat-option>
+        </mat-select>   
+      </mat-form-field>
+    <br>
+
+    <canvas width="400" height="400" id="circulo"></canvas>
+</div>
+

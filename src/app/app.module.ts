@@ -5,10 +5,10 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatIconModule } from '@angular/material/icon';
-import { MatListModule} from '@angular/material/list';
-import { MatPaginatorModule} from '@angular/material/paginator';
+import { MatListModule } from '@angular/material/list';
+import { MatPaginatorModule } from '@angular/material/paginator';
 import { MenuComponent } from './components/menu/menu.component';
-import { MatTableModule } from '@angular/material/table' 
+import { MatTableModule } from '@angular/material/table'
 import { ContingutComponent } from './components/contingut/contingut.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { BolaDelMonComponent } from './components/bola-del-mon/bola-del-mon.component';
@@ -17,6 +17,8 @@ import { TablaDatosComponent } from './components/tabla-datos/tabla-datos.compon
 import { GraficsComponent } from './components/grafics/grafics.component';
 import { SliceWordsPipe } from './components/tabla-datos/slice-words.pipe';
 import { NumberDecimalPipe } from './components/tabla-datos/number-decimal.pipe';
+import { AppRoutingModule } from './app-routing.module';
+import { MatSelectModule } from '@angular/material/select';
 
 
 
@@ -31,6 +33,8 @@ import { NumberDecimalPipe } from './components/tabla-datos/number-decimal.pipe'
     GraficsComponent,
     SliceWordsPipe,
     NumberDecimalPipe,
+
+
   ],
   imports: [
     BrowserModule,
@@ -42,8 +46,10 @@ import { NumberDecimalPipe } from './components/tabla-datos/number-decimal.pipe'
     MatListModule,
     MatPaginatorModule,
     MatSortModule,
+    AppRoutingModule,
+    MatSelectModule,
   ],
-  schemas: [ CUSTOM_ELEMENTS_SCHEMA ],
+  schemas: [CUSTOM_ELEMENTS_SCHEMA],
   providers: [],
   bootstrap: [AppComponent]
 })
