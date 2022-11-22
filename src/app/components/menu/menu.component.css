@@ -17,9 +17,13 @@
 .menu{
     margin-left: 59%;
 }
+
 .espai {
     margin-right: 50px;
 }
 
+.espai a:hover{
+    color: #ccccff;
+}
 
 
