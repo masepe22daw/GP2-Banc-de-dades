@@ -19,10 +19,7 @@ import { NumberDecimalPipe } from './components/tabla-datos/number-decimal.pipe'
 import { AppRoutingModule } from './app-routing.module';
 import { IniciComponent } from './components/inici/inici.component';
 import { MatSelectModule } from '@angular/material/select';
-<<<<<<< HEAD
 import {MatButtonModule} from '@angular/material/button';
-=======
->>>>>>> 7ebfd4087a3260b79e9e17edcb3cb5a9c168e36c
 import { MatInputModule } from '@angular/material/input';
 import { MatFormFieldModule } from "@angular/material/form-field";
 
@@ -53,15 +50,12 @@ import { MatFormFieldModule } from "@angular/material/form-field";
     MatSortModule,
     AppRoutingModule,
     MatSelectModule,
-<<<<<<< HEAD
     MatButtonModule,
     MatInputModule,
     MatFormFieldModule,
-=======
     MatInputModule,
     MatFormFieldModule
 
->>>>>>> 7ebfd4087a3260b79e9e17edcb3cb5a9c168e36c
   ],
   schemas: [CUSTOM_ELEMENTS_SCHEMA],
   providers: [],

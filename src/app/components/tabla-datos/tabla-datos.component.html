@@ -1,16 +1,9 @@
 <app-menu></app-menu>
 <div class="container">
-<<<<<<< HEAD
     <mat-form-field [style.width.%]="25">
         <mat-label>Filtro</mat-label>
         <input matInput (keyup)="applyFilter($event)" placeholder="Ex. Life expectancy at birth" #input>
-=======
-    <mat-form-field>
-        <mat-label>Filter</mat-label>
-        <input matInput (keyup)="applyFilter($event)" placeholder="Ex. Country" #input>
->>>>>>> 7ebfd4087a3260b79e9e17edcb3cb5a9c168e36c
     </mat-form-field>
-
     <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
         <!--- Note that these columns can be defined in any order.
           The actual rendered columns are set as a property on the row definition" -->
@@ -92,5 +85,6 @@
     </table>
     <mat-paginator [pageSizeOptions]="[10, 15, 20,28]" showFirstLastButtons aria-label="Select page of periodic elements">
     </mat-paginator>
-</div>
+
+    </div>
 <app-footer></app-footer>
