@@ -1,3 +1,28 @@
+<<<<<<< HEAD
+<div>
+  <h4>Seleciona Pais</h4>
+  <mat-form-field  appearance="fill">
+    <mat-label>Pais</mat-label>
+    <mat-select (selectionChange)="getCountry($event.value)">
+      <mat-option *ngFor="let co of countrys" [value]="co"  >
+        {{co}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+  <br>
+  <h4>Seleciona Indicador</h4>
+  <mat-form-field  [style.width.%]="50" appearance="fill">
+    <mat-label>Indicador</mat-label>
+    <mat-select (selectionChange)="getIndicator($event.value)" >
+      <mat-option *ngFor="let ind of inds" [value]="ind"  >
+        {{ind}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+
+  <canvas width="400" height="400" id="circulo"></canvas>
+</div>
+=======
 <app-menu></app-menu>
 <div>
     <h4>Select Indicator</h4>
@@ -23,3 +48,4 @@
     <canvas width="400" height="400" id="circulo"></canvas>
 </div>
 <app-footer></app-footer>
+>>>>>>> 7ebfd4087a3260b79e9e17edcb3cb5a9c168e36c
