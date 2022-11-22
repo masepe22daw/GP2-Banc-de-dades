@@ -3,16 +3,20 @@
     color: white;
 }
 
+.color-menu a{
+    color: white;
+    text-decoration: none;
+}
+
 .logo{
     width: 50px;
     margin-top: 10px;
-    margin-left: 50px;
+    margin-left: 100px;
 }
 
-.titol{
-    margin-right: 50px;
+.menu{
+    margin-left: 1100px;
 }
-
 .espai {
     margin-right: 50px;
 }

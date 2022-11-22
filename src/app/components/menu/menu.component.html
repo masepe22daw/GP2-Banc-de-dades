@@ -1,7 +1,10 @@
 <mat-toolbar class="color-menu">
     <div><img class="logo" src="../../../assets/logo.png " /></div>
     <span class="titol">Pobresa Mundial</span>
-    <span href="#" class="espai">Dades</span>
-    <span href="#" class="espai">Grafics</span>
-    <span href="#" class="espai">Contacte</span>
+    <div class="menu">
+        <span class="espai"><a [routerLink]="[ '']">Inici</a></span>
+        <span class="espai"><a [routerLink]="[ '/Dades']">Dades</a></span>
+        <span class="espai"><a [routerLink]="[ '/Grafics']">Grafics</a></span>
+        <span class="espai">Contacte</span>
+    </div>
 </mat-toolbar>

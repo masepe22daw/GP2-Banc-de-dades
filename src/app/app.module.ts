@@ -11,15 +11,18 @@ import { MenuComponent } from './components/menu/menu.component';
 import { MatTableModule } from '@angular/material/table'
 import { ContingutComponent } from './components/contingut/contingut.component';
 import { FooterComponent } from './components/footer/footer.component';
-import { BolaDelMonComponent } from './components/bola-del-mon/bola-del-mon.component';
 import { MatSortModule } from '@angular/material/sort';
 import { TablaDatosComponent } from './components/tabla-datos/tabla-datos.component';
 import { GraficsComponent } from './components/grafics/grafics.component';
 import { SliceWordsPipe } from './components/tabla-datos/slice-words.pipe';
 import { NumberDecimalPipe } from './components/tabla-datos/number-decimal.pipe';
 import { AppRoutingModule } from './app-routing.module';
+import { IniciComponent } from './components/inici/inici.component';
 import { MatSelectModule } from '@angular/material/select';
+<<<<<<< HEAD
 import {MatButtonModule} from '@angular/material/button';
+=======
+>>>>>>> 7ebfd4087a3260b79e9e17edcb3cb5a9c168e36c
 import { MatInputModule } from '@angular/material/input';
 import { MatFormFieldModule } from "@angular/material/form-field";
 
@@ -31,13 +34,12 @@ import { MatFormFieldModule } from "@angular/material/form-field";
     MenuComponent,
     ContingutComponent,
     FooterComponent,
-    BolaDelMonComponent,
     TablaDatosComponent,
     GraficsComponent,
     SliceWordsPipe,
     NumberDecimalPipe,
 
-
+    IniciComponent,
   ],
   imports: [
     BrowserModule,
@@ -51,9 +53,15 @@ import { MatFormFieldModule } from "@angular/material/form-field";
     MatSortModule,
     AppRoutingModule,
     MatSelectModule,
+<<<<<<< HEAD
     MatButtonModule,
     MatInputModule,
     MatFormFieldModule,
+=======
+    MatInputModule,
+    MatFormFieldModule
+
+>>>>>>> 7ebfd4087a3260b79e9e17edcb3cb5a9c168e36c
   ],
   schemas: [CUSTOM_ELEMENTS_SCHEMA],
   providers: [],

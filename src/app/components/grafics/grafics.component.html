@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div>
   <h4>Seleciona Pais</h4>
   <mat-form-field  appearance="fill">
@@ -21,3 +22,30 @@
 
   <canvas width="400" height="400" id="circulo"></canvas>
 </div>
+=======
+<app-menu></app-menu>
+<div>
+    <h4>Select Indicator</h4>
+    <mat-form-field appearance="fill">
+        <mat-label>Indicator</mat-label>
+        <mat-select>
+          <mat-option *ngFor="let ind of inds" [value]="ind">
+            {{ind}}
+          </mat-option>
+        </mat-select>   
+      </mat-form-field>
+    <h4>Select Country</h4>
+    <mat-form-field appearance="fill">
+        <mat-label>Country</mat-label>
+        <mat-select>
+          <mat-option *ngFor="let ind of country" [value]="ind">
+            {{ind}}
+          </mat-option>
+        </mat-select>   
+      </mat-form-field>
+    <br>
+
+    <canvas width="400" height="400" id="circulo"></canvas>
+</div>
+<app-footer></app-footer>
+>>>>>>> 7ebfd4087a3260b79e9e17edcb3cb5a9c168e36c
