@@ -91,7 +91,7 @@ export class GraficsComponent implements OnInit {
 
   RenderChart() {
 
-    let c = "Afghanistan", indi = "Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)";
+    let c = "Afghanistan", indi = "Extracción anual de agua dulce, agricultura (% de la extracción total de agua dulce)";
 
     if (this.param1 == "") {
       this.param1 = c
