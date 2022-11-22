@@ -18,9 +18,8 @@ export interface indicador {
   YR2020: number,
   YR2021: number
 }
-
+let myChart: Chart<"line", any[], string>;
 const indicadores: indicador[] = dadesB;
-
 
 Chart.register(...registerables);
 
@@ -31,14 +30,38 @@ Chart.register(...registerables);
 })
 
 export class GraficsComponent implements OnInit {
-
+  param1: any = ""
+  param2: any = ""
+  ind = " "
   inds = this.CopiarStringInd();
-  country = this.CopiarStringCountry();
+  countrys = this.CopiarStringCountry();
   constructor() { }
   ngOnInit(): void {
     this.RenderChart();
     this.CopiarStringInd();
     this.CopiarStringCountry();
+  }
+  getCountry(country: string) {
+    this.param1 = country;
+    this.RenderChart();
+
+  }
+  getIndicator(indicator: string) {
+    this.param2 = indicator;
+    this.RenderChart();
+
+  }
+  findNumArray(country: string, indicator: string) {
+    console.log(indicadores[1]["Country_Name"])
+    for (let i = 0; indicadores.length; i++) {
+
+      let c = indicadores[i]["Country_Name"];
+      let indi = indicadores[i]["Series_Name"];
+      if (c == country && indi == indicator) {
+        return i
+      }
+    }
+    return 0
   }
 
   CopiarStringInd() {
@@ -54,31 +77,40 @@ export class GraficsComponent implements OnInit {
     let n = 0, i = 0;
     let arrayPaises = [];
     do {
-      i=n-1
-      if(indicadores[n].Country_Name!=arrayPaises[i]){
+      i = n - 1
+      if (indicadores[n].Country_Name != arrayPaises[i]) {
         arrayPaises.push(indicadores[n].Country_Name);
       }
       n++
     } while (indicadores[n].Country_Name != "Zimbabwe")
     arrayPaises.push("Zimbabwe")
     const conjunto = new Set(arrayPaises);
-    const unicos = [... conjunto];
+    const unicos = [...conjunto];
     return unicos
   }
 
   RenderChart() {
+
+    let c = "Afghanistan", indi = "Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)";
+
+    if (this.param1 == "") {
+      this.param1 = c
+    }
+    if (this.param2 == "") {
+      this.param2 = indi
+    }
     const DATA_COUNT = 7;
-
-    const labels = ["2015", "2016", "2017", "2018", "2019"];
-    
-
-
+    const labels = ["2015", "2016", "2017", "2018", "2019", "2020", "2021"];
+    console.log(this.param1)
+    console.log(this.param2)
+    let arrNum = this.findNumArray(this.param1, this.param2);
+    console.log(arrNum)
     const data = {
       labels: labels,
       datasets: [
         {
-          label: '  1',
-          data: [dadesB[6]['YR2015'], dadesB[6]['YR2016'], dadesB[6]['YR2017'], dadesB[6]['YR2018'], dadesB[6]['YR2019']],
+          label: dadesB[arrNum]["Country_Name"],
+          data: [dadesB[arrNum]['YR2015'], dadesB[arrNum]['YR2016'], dadesB[arrNum]['YR2017'], dadesB[arrNum]['YR2018'], dadesB[arrNum]['YR2019'], dadesB[arrNum]['YR2020'], dadesB[arrNum]['YR2021']],
           borderColor: 'rgb(255, 99, 132)',
           backgroundColor: 'rgb(255, 99, 132)',
           yAxisID: 'y',
@@ -94,7 +126,10 @@ export class GraficsComponent implements OnInit {
         */
       ]
     };
-    const myChart = new Chart("circulo", {
+    if (myChart) {
+      myChart.destroy();
+    }
+    myChart = new Chart("circulo", {
       type: 'line',
       data: data,
       options: {
@@ -130,6 +165,5 @@ export class GraficsComponent implements OnInit {
       },
     });
   }
-
-
 }
+
