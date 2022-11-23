@@ -82,7 +82,7 @@
   {
     "Country_Name": "Afghanistan",
     "Country_Code": "AFG",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -530,7 +530,7 @@
   {
     "Country_Name": "Albania",
     "Country_Code": "ALB",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -978,7 +978,7 @@
   {
     "Country_Name": "Algeria",
     "Country_Code": "DZA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -1426,7 +1426,7 @@
   {
     "Country_Name": "American Samoa",
     "Country_Code": "ASM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -1874,7 +1874,7 @@
   {
     "Country_Name": "Andorra",
     "Country_Code": "AND",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -2322,7 +2322,7 @@
   {
     "Country_Name": "Angola",
     "Country_Code": "AGO",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -2770,7 +2770,7 @@
   {
     "Country_Name": "Antigua and Barbuda",
     "Country_Code": "ATG",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -3218,7 +3218,7 @@
   {
     "Country_Name": "Argentina",
     "Country_Code": "ARG",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -3666,7 +3666,7 @@
   {
     "Country_Name": "Armenia",
     "Country_Code": "ARM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -4114,7 +4114,7 @@
   {
     "Country_Name": "Aruba",
     "Country_Code": "ABW",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -4562,7 +4562,7 @@
   {
     "Country_Name": "Australia",
     "Country_Code": "AUS",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -5010,7 +5010,7 @@
   {
     "Country_Name": "Austria",
     "Country_Code": "AUT",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -5458,7 +5458,7 @@
   {
     "Country_Name": "Azerbaijan",
     "Country_Code": "AZE",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -5906,7 +5906,7 @@
   {
     "Country_Name": "Bahamas, The",
     "Country_Code": "BHS",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -6354,7 +6354,7 @@
   {
     "Country_Name": "Bahrain",
     "Country_Code": "BHR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -6802,7 +6802,7 @@
   {
     "Country_Name": "Bangladesh",
     "Country_Code": "BGD",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -7250,7 +7250,7 @@
   {
     "Country_Name": "Barbados",
     "Country_Code": "BRB",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -7698,7 +7698,7 @@
   {
     "Country_Name": "Belarus",
     "Country_Code": "BLR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -8146,7 +8146,7 @@
   {
     "Country_Name": "Belgium",
     "Country_Code": "BEL",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -8594,7 +8594,7 @@
   {
     "Country_Name": "Belize",
     "Country_Code": "BLZ",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -9042,7 +9042,7 @@
   {
     "Country_Name": "Benin",
     "Country_Code": "BEN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -9490,7 +9490,7 @@
   {
     "Country_Name": "Bermuda",
     "Country_Code": "BMU",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -9938,7 +9938,7 @@
   {
     "Country_Name": "Bhutan",
     "Country_Code": "BTN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -10386,7 +10386,7 @@
   {
     "Country_Name": "Bolivia",
     "Country_Code": "BOL",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -10834,7 +10834,7 @@
   {
     "Country_Name": "Bosnia and Herzegovina",
     "Country_Code": "BIH",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -11282,7 +11282,7 @@
   {
     "Country_Name": "Botswana",
     "Country_Code": "BWA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -11730,7 +11730,7 @@
   {
     "Country_Name": "Brazil",
     "Country_Code": "BRA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -12178,7 +12178,7 @@
   {
     "Country_Name": "British Virgin Islands",
     "Country_Code": "VGB",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -12626,7 +12626,7 @@
   {
     "Country_Name": "Brunei Darussalam",
     "Country_Code": "BRN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -13074,7 +13074,7 @@
   {
     "Country_Name": "Bulgaria",
     "Country_Code": "BGR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -13522,7 +13522,7 @@
   {
     "Country_Name": "Burkina Faso",
     "Country_Code": "BFA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -13970,7 +13970,7 @@
   {
     "Country_Name": "Burundi",
     "Country_Code": "BDI",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -14418,7 +14418,7 @@
   {
     "Country_Name": "Cabo Verde",
     "Country_Code": "CPV",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -14866,7 +14866,7 @@
   {
     "Country_Name": "Cambodia",
     "Country_Code": "KHM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -15314,7 +15314,7 @@
   {
     "Country_Name": "Cameroon",
     "Country_Code": "CMR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -15762,7 +15762,7 @@
   {
     "Country_Name": "Canada",
     "Country_Code": "CAN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -16210,7 +16210,7 @@
   {
     "Country_Name": "Cayman Islands",
     "Country_Code": "CYM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -16658,7 +16658,7 @@
   {
     "Country_Name": "Central African Republic",
     "Country_Code": "CAF",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -17106,7 +17106,7 @@
   {
     "Country_Name": "Chad",
     "Country_Code": "TCD",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -17554,7 +17554,7 @@
   {
     "Country_Name": "Channel Islands",
     "Country_Code": "CHI",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -18002,7 +18002,7 @@
   {
     "Country_Name": "Chile",
     "Country_Code": "CHL",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -18450,7 +18450,7 @@
   {
     "Country_Name": "China",
     "Country_Code": "CHN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -18898,7 +18898,7 @@
   {
     "Country_Name": "Colombia",
     "Country_Code": "COL",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -19346,7 +19346,7 @@
   {
     "Country_Name": "Comoros",
     "Country_Code": "COM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -19794,7 +19794,7 @@
   {
     "Country_Name": "Congo, Dem. Rep.",
     "Country_Code": "COD",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": 9.83,
     "YR2013": " ",
@@ -20242,7 +20242,7 @@
   {
     "Country_Name": "Congo, Rep.",
     "Country_Code": "COG",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -20690,7 +20690,7 @@
   {
     "Country_Name": "Costa Rica",
     "Country_Code": "CRI",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -21138,7 +21138,7 @@
   {
     "Country_Name": "Cote d'Ivoire",
     "Country_Code": "CIV",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -21586,7 +21586,7 @@
   {
     "Country_Name": "Croatia",
     "Country_Code": "HRV",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -22034,7 +22034,7 @@
   {
     "Country_Name": "Cuba",
     "Country_Code": "CUB",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -22482,7 +22482,7 @@
   {
     "Country_Name": "Curacao",
     "Country_Code": "CUW",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -22930,7 +22930,7 @@
   {
     "Country_Name": "Cyprus",
     "Country_Code": "CYP",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -23378,7 +23378,7 @@
   {
     "Country_Name": "Czechia",
     "Country_Code": "CZE",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -23826,7 +23826,7 @@
   {
     "Country_Name": "Denmark",
     "Country_Code": "DNK",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -24274,7 +24274,7 @@
   {
     "Country_Name": "Djibouti",
     "Country_Code": "DJI",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -24722,7 +24722,7 @@
   {
     "Country_Name": "Dominica",
     "Country_Code": "DMA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -25170,7 +25170,7 @@
   {
     "Country_Name": "Dominican Republic",
     "Country_Code": "DOM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -25618,7 +25618,7 @@
   {
     "Country_Name": "Ecuador",
     "Country_Code": "ECU",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -26066,7 +26066,7 @@
   {
     "Country_Name": "Egypt, Arab Rep.",
     "Country_Code": "EGY",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -26514,7 +26514,7 @@
   {
     "Country_Name": "El Salvador",
     "Country_Code": "SLV",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -26962,7 +26962,7 @@
   {
     "Country_Name": "Equatorial Guinea",
     "Country_Code": "GNQ",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -27410,7 +27410,7 @@
   {
     "Country_Name": "Eritrea",
     "Country_Code": "ERI",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -27858,7 +27858,7 @@
   {
     "Country_Name": "Estonia",
     "Country_Code": "EST",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -28306,7 +28306,7 @@
   {
     "Country_Name": "Eswatini",
     "Country_Code": "SWZ",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -28754,7 +28754,7 @@
   {
     "Country_Name": "Ethiopia",
     "Country_Code": "ETH",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -29202,7 +29202,7 @@
   {
     "Country_Name": "Faroe Islands",
     "Country_Code": "FRO",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -29650,7 +29650,7 @@
   {
     "Country_Name": "Fiji",
     "Country_Code": "FJI",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": -0.51,
@@ -30098,7 +30098,7 @@
   {
     "Country_Name": "Finland",
     "Country_Code": "FIN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -30546,7 +30546,7 @@
   {
     "Country_Name": "France",
     "Country_Code": "FRA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -30994,7 +30994,7 @@
   {
     "Country_Name": "French Polynesia",
     "Country_Code": "PYF",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -31442,7 +31442,7 @@
   {
     "Country_Name": "Gabon",
     "Country_Code": "GAB",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -31890,7 +31890,7 @@
   {
     "Country_Name": "Gambia, The",
     "Country_Code": "GMB",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -32338,7 +32338,7 @@
   {
     "Country_Name": "Georgia",
     "Country_Code": "GEO",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -32786,7 +32786,7 @@
   {
     "Country_Name": "Germany",
     "Country_Code": "DEU",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -33234,7 +33234,7 @@
   {
     "Country_Name": "Ghana",
     "Country_Code": "GHA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -33682,7 +33682,7 @@
   {
     "Country_Name": "Gibraltar",
     "Country_Code": "GIB",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -34130,7 +34130,7 @@
   {
     "Country_Name": "Greece",
     "Country_Code": "GRC",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -34578,7 +34578,7 @@
   {
     "Country_Name": "Greenland",
     "Country_Code": "GRL",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -35026,7 +35026,7 @@
   {
     "Country_Name": "Grenada",
     "Country_Code": "GRD",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -35474,7 +35474,7 @@
   {
     "Country_Name": "Guam",
     "Country_Code": "GUM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -35922,7 +35922,7 @@
   {
     "Country_Name": "Guatemala",
     "Country_Code": "GTM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -36370,7 +36370,7 @@
   {
     "Country_Name": "Guinea",
     "Country_Code": "GIN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": 4.94,
     "YR2013": " ",
@@ -36818,7 +36818,7 @@
   {
     "Country_Name": "Guinea-Bissau",
     "Country_Code": "GNB",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -37266,7 +37266,7 @@
   {
     "Country_Name": "Guyana",
     "Country_Code": "GUY",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -37714,7 +37714,7 @@
   {
     "Country_Name": "Haiti",
     "Country_Code": "HTI",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -38162,7 +38162,7 @@
   {
     "Country_Name": "Honduras",
     "Country_Code": "HND",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -38610,7 +38610,7 @@
   {
     "Country_Name": "Hong Kong SAR, China",
     "Country_Code": "HKG",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -39058,7 +39058,7 @@
   {
     "Country_Name": "Hungary",
     "Country_Code": "HUN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -39506,7 +39506,7 @@
   {
     "Country_Name": "Iceland",
     "Country_Code": "ISL",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -39954,7 +39954,7 @@
   {
     "Country_Name": "India",
     "Country_Code": "IND",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -40402,7 +40402,7 @@
   {
     "Country_Name": "Indonesia",
     "Country_Code": "IDN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -40850,7 +40850,7 @@
   {
     "Country_Name": "Iran, Islamic Rep.",
     "Country_Code": "IRN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -41298,7 +41298,7 @@
   {
     "Country_Name": "Iraq",
     "Country_Code": "IRQ",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": 1.11,
     "YR2013": " ",
@@ -41746,7 +41746,7 @@
   {
     "Country_Name": "Ireland",
     "Country_Code": "IRL",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -42194,7 +42194,7 @@
   {
     "Country_Name": "Isle of Man",
     "Country_Code": "IMN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -42642,7 +42642,7 @@
   {
     "Country_Name": "Israel",
     "Country_Code": "ISR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -43090,7 +43090,7 @@
   {
     "Country_Name": "Italy",
     "Country_Code": "ITA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -43538,7 +43538,7 @@
   {
     "Country_Name": "Jamaica",
     "Country_Code": "JAM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -43986,7 +43986,7 @@
   {
     "Country_Name": "Japan",
     "Country_Code": "JPN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -44434,7 +44434,7 @@
   {
     "Country_Name": "Jordan",
     "Country_Code": "JOR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -44882,7 +44882,7 @@
   {
     "Country_Name": "Kazakhstan",
     "Country_Code": "KAZ",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -45330,7 +45330,7 @@
   {
     "Country_Name": "Kenya",
     "Country_Code": "KEN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -45778,7 +45778,7 @@
   {
     "Country_Name": "Kiribati",
     "Country_Code": "KIR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -46226,7 +46226,7 @@
   {
     "Country_Name": "Korea, Dem. People's Rep.",
     "Country_Code": "PRK",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -46674,7 +46674,7 @@
   {
     "Country_Name": "Korea, Rep.",
     "Country_Code": "KOR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -47122,7 +47122,7 @@
   {
     "Country_Name": "Kosovo",
     "Country_Code": "XKX",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -47570,7 +47570,7 @@
   {
     "Country_Name": "Kuwait",
     "Country_Code": "KWT",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -48018,7 +48018,7 @@
   {
     "Country_Name": "Kyrgyz Republic",
     "Country_Code": "KGZ",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -48466,7 +48466,7 @@
   {
     "Country_Name": "Lao PDR",
     "Country_Code": "LAO",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -48914,7 +48914,7 @@
   {
     "Country_Name": "Latvia",
     "Country_Code": "LVA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -49362,7 +49362,7 @@
   {
     "Country_Name": "Lebanon",
     "Country_Code": "LBN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -49810,7 +49810,7 @@
   {
     "Country_Name": "Lesotho",
     "Country_Code": "LSO",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -50258,7 +50258,7 @@
   {
     "Country_Name": "Liberia",
     "Country_Code": "LBR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -50706,7 +50706,7 @@
   {
     "Country_Name": "Libya",
     "Country_Code": "LBY",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -51154,7 +51154,7 @@
   {
     "Country_Name": "Liechtenstein",
     "Country_Code": "LIE",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -51602,7 +51602,7 @@
   {
     "Country_Name": "Lithuania",
     "Country_Code": "LTU",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -52050,7 +52050,7 @@
   {
     "Country_Name": "Luxembourg",
     "Country_Code": "LUX",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -52498,7 +52498,7 @@
   {
     "Country_Name": "Macao SAR, China",
     "Country_Code": "MAC",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -52946,7 +52946,7 @@
   {
     "Country_Name": "Madagascar",
     "Country_Code": "MDG",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": -2.27,
     "YR2013": " ",
@@ -53394,7 +53394,7 @@
   {
     "Country_Name": "Malawi",
     "Country_Code": "MWI",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -53842,7 +53842,7 @@
   {
     "Country_Name": "Malaysia",
     "Country_Code": "MYS",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -54290,7 +54290,7 @@
   {
     "Country_Name": "Maldives",
     "Country_Code": "MDV",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -54738,7 +54738,7 @@
   {
     "Country_Name": "Mali",
     "Country_Code": "MLI",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -55186,7 +55186,7 @@
   {
     "Country_Name": "Malta",
     "Country_Code": "MLT",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -55634,7 +55634,7 @@
   {
     "Country_Name": "Marshall Islands",
     "Country_Code": "MHL",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -56082,7 +56082,7 @@
   {
     "Country_Name": "Mauritania",
     "Country_Code": "MRT",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -56530,7 +56530,7 @@
   {
     "Country_Name": "Mauritius",
     "Country_Code": "MUS",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -56978,7 +56978,7 @@
   {
     "Country_Name": "Mexico",
     "Country_Code": "MEX",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -57426,7 +57426,7 @@
   {
     "Country_Name": "Micronesia, Fed. Sts.",
     "Country_Code": "FSM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -57874,7 +57874,7 @@
   {
     "Country_Name": "Moldova",
     "Country_Code": "MDA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -58322,7 +58322,7 @@
   {
     "Country_Name": "Monaco",
     "Country_Code": "MCO",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -58770,7 +58770,7 @@
   {
     "Country_Name": "Mongolia",
     "Country_Code": "MNG",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -59218,7 +59218,7 @@
   {
     "Country_Name": "Montenegro",
     "Country_Code": "MNE",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -59666,7 +59666,7 @@
   {
     "Country_Name": "Morocco",
     "Country_Code": "MAR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -60114,7 +60114,7 @@
   {
     "Country_Name": "Mozambique",
     "Country_Code": "MOZ",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -60562,7 +60562,7 @@
   {
     "Country_Name": "Myanmar",
     "Country_Code": "MMR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -61010,7 +61010,7 @@
   {
     "Country_Name": "Namibia",
     "Country_Code": "NAM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -61458,7 +61458,7 @@
   {
     "Country_Name": "Nauru",
     "Country_Code": "NRU",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -61906,7 +61906,7 @@
   {
     "Country_Name": "Nepal",
     "Country_Code": "NPL",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -62354,7 +62354,7 @@
   {
     "Country_Name": "Netherlands",
     "Country_Code": "NLD",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -62802,7 +62802,7 @@
   {
     "Country_Name": "New Caledonia",
     "Country_Code": "NCL",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -63250,7 +63250,7 @@
   {
     "Country_Name": "New Zealand",
     "Country_Code": "NZL",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -63698,7 +63698,7 @@
   {
     "Country_Name": "Nicaragua",
     "Country_Code": "NIC",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -64146,7 +64146,7 @@
   {
     "Country_Name": "Niger",
     "Country_Code": "NER",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -64594,7 +64594,7 @@
   {
     "Country_Name": "Nigeria",
     "Country_Code": "NGA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -65042,7 +65042,7 @@
   {
     "Country_Name": "North Macedonia",
     "Country_Code": "MKD",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -65490,7 +65490,7 @@
   {
     "Country_Name": "Northern Mariana Islands",
     "Country_Code": "MNP",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -65938,7 +65938,7 @@
   {
     "Country_Name": "Norway",
     "Country_Code": "NOR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -66386,7 +66386,7 @@
   {
     "Country_Name": "Oman",
     "Country_Code": "OMN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -66834,7 +66834,7 @@
   {
     "Country_Name": "Pakistan",
     "Country_Code": "PAK",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -67282,7 +67282,7 @@
   {
     "Country_Name": "Palau",
     "Country_Code": "PLW",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -67730,7 +67730,7 @@
   {
     "Country_Name": "Panama",
     "Country_Code": "PAN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -68178,7 +68178,7 @@
   {
     "Country_Name": "Papua New Guinea",
     "Country_Code": "PNG",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -68626,7 +68626,7 @@
   {
     "Country_Name": "Paraguay",
     "Country_Code": "PRY",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -69074,7 +69074,7 @@
   {
     "Country_Name": "Peru",
     "Country_Code": "PER",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -69522,7 +69522,7 @@
   {
     "Country_Name": "Philippines",
     "Country_Code": "PHL",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -69970,7 +69970,7 @@
   {
     "Country_Name": "Poland",
     "Country_Code": "POL",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -70418,7 +70418,7 @@
   {
     "Country_Name": "Portugal",
     "Country_Code": "PRT",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -70866,7 +70866,7 @@
   {
     "Country_Name": "Puerto Rico",
     "Country_Code": "PRI",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -71314,7 +71314,7 @@
   {
     "Country_Name": "Qatar",
     "Country_Code": "QAT",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -71762,7 +71762,7 @@
   {
     "Country_Name": "Romania",
     "Country_Code": "ROU",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -72210,7 +72210,7 @@
   {
     "Country_Name": "Russian Federation",
     "Country_Code": "RUS",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -72658,7 +72658,7 @@
   {
     "Country_Name": "Rwanda",
     "Country_Code": "RWA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -73106,7 +73106,7 @@
   {
     "Country_Name": "Samoa",
     "Country_Code": "WSM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -73554,7 +73554,7 @@
   {
     "Country_Name": "San Marino",
     "Country_Code": "SMR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -74002,7 +74002,7 @@
   {
     "Country_Name": "Sao Tome and Principe",
     "Country_Code": "STP",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -74450,7 +74450,7 @@
   {
     "Country_Name": "Saudi Arabia",
     "Country_Code": "SAU",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -74898,7 +74898,7 @@
   {
     "Country_Name": "Senegal",
     "Country_Code": "SEN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -75346,7 +75346,7 @@
   {
     "Country_Name": "Serbia",
     "Country_Code": "SRB",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -75794,7 +75794,7 @@
   {
     "Country_Name": "Seychelles",
     "Country_Code": "SYC",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -76242,7 +76242,7 @@
   {
     "Country_Name": "Sierra Leone",
     "Country_Code": "SLE",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -76690,7 +76690,7 @@
   {
     "Country_Name": "Singapore",
     "Country_Code": "SGP",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -77138,7 +77138,7 @@
   {
     "Country_Name": "Sint Maarten (Dutch part)",
     "Country_Code": "SXM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -77586,7 +77586,7 @@
   {
     "Country_Name": "Slovak Republic",
     "Country_Code": "SVK",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -78034,7 +78034,7 @@
   {
     "Country_Name": "Slovenia",
     "Country_Code": "SVN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -78482,7 +78482,7 @@
   {
     "Country_Name": "Solomon Islands",
     "Country_Code": "SLB",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -78930,7 +78930,7 @@
   {
     "Country_Name": "Somalia",
     "Country_Code": "SOM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -79378,7 +79378,7 @@
   {
     "Country_Name": "South Africa",
     "Country_Code": "ZAF",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -79826,7 +79826,7 @@
   {
     "Country_Name": "South Sudan",
     "Country_Code": "SSD",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -80274,7 +80274,7 @@
   {
     "Country_Name": "Spain",
     "Country_Code": "ESP",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -80722,7 +80722,7 @@
   {
     "Country_Name": "Sri Lanka",
     "Country_Code": "LKA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -81170,7 +81170,7 @@
   {
     "Country_Name": "St. Kitts and Nevis",
     "Country_Code": "KNA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -81618,7 +81618,7 @@
   {
     "Country_Name": "St. Lucia",
     "Country_Code": "LCA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -82066,7 +82066,7 @@
   {
     "Country_Name": "St. Martin (French part)",
     "Country_Code": "MAF",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -82514,7 +82514,7 @@
   {
     "Country_Name": "St. Vincent and the Grenadines",
     "Country_Code": "VCT",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -82962,7 +82962,7 @@
   {
     "Country_Name": "Sudan",
     "Country_Code": "SDN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -83410,7 +83410,7 @@
   {
     "Country_Name": "Suriname",
     "Country_Code": "SUR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -83858,7 +83858,7 @@
   {
     "Country_Name": "Sweden",
     "Country_Code": "SWE",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -84306,7 +84306,7 @@
   {
     "Country_Name": "Switzerland",
     "Country_Code": "CHE",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -84754,7 +84754,7 @@
   {
     "Country_Name": "Syrian Arab Republic",
     "Country_Code": "SYR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -85202,7 +85202,7 @@
   {
     "Country_Name": "Tajikistan",
     "Country_Code": "TJK",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -85650,7 +85650,7 @@
   {
     "Country_Name": "Tanzania",
     "Country_Code": "TZA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -86098,7 +86098,7 @@
   {
     "Country_Name": "Thailand",
     "Country_Code": "THA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -86546,7 +86546,7 @@
   {
     "Country_Name": "Timor-Leste",
     "Country_Code": "TLS",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -86994,7 +86994,7 @@
   {
     "Country_Name": "Togo",
     "Country_Code": "TGO",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -87442,7 +87442,7 @@
   {
     "Country_Name": "Tonga",
     "Country_Code": "TON",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -87890,7 +87890,7 @@
   {
     "Country_Name": "Trinidad and Tobago",
     "Country_Code": "TTO",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -88338,7 +88338,7 @@
   {
     "Country_Name": "Tunisia",
     "Country_Code": "TUN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -88786,7 +88786,7 @@
   {
     "Country_Name": "Turkiye",
     "Country_Code": "TUR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -89234,7 +89234,7 @@
   {
     "Country_Name": "Turkmenistan",
     "Country_Code": "TKM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -89682,7 +89682,7 @@
   {
     "Country_Name": "Turks and Caicos Islands",
     "Country_Code": "TCA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -90130,7 +90130,7 @@
   {
     "Country_Name": "Tuvalu",
     "Country_Code": "TUV",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -90578,7 +90578,7 @@
   {
     "Country_Name": "Uganda",
     "Country_Code": "UGA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -91026,7 +91026,7 @@
   {
     "Country_Name": "Ukraine",
     "Country_Code": "UKR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -91474,7 +91474,7 @@
   {
     "Country_Name": "United Arab Emirates",
     "Country_Code": "ARE",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -91922,7 +91922,7 @@
   {
     "Country_Name": "United Kingdom",
     "Country_Code": "GBR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -92370,7 +92370,7 @@
   {
     "Country_Name": "United States",
     "Country_Code": "USA",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -92818,7 +92818,7 @@
   {
     "Country_Name": "Uruguay",
     "Country_Code": "URY",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -93266,7 +93266,7 @@
   {
     "Country_Name": "Uzbekistan",
     "Country_Code": "UZB",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -93714,7 +93714,7 @@
   {
     "Country_Name": "Vanuatu",
     "Country_Code": "VUT",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -94162,7 +94162,7 @@
   {
     "Country_Name": "Venezuela, RB",
     "Country_Code": "VEN",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -94610,7 +94610,7 @@
   {
     "Country_Name": "Vietnam",
     "Country_Code": "VNM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -95058,7 +95058,7 @@
   {
     "Country_Name": "Virgin Islands (U.S.)",
     "Country_Code": "VIR",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -95506,7 +95506,7 @@
   {
     "Country_Name": "West Bank and Gaza",
     "Country_Code": "PSE",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -95954,7 +95954,7 @@
   {
     "Country_Name": "Yemen, Rep.",
     "Country_Code": "YEM",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -96402,7 +96402,7 @@
   {
     "Country_Name": "Zambia",
     "Country_Code": "ZMB",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
@@ -96850,7 +96850,7 @@
   {
     "Country_Name": "Zimbabwe",
     "Country_Code": "ZWE",
-    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo o ingreso promedio real per cápita de la encuesta, población total (%)",
+    "Series_Name": "Tasa de crecimiento promedio anualizada del consumo ",
     "Series_Code": "SI.SPR.PCAP.ZG",
     "YR2012": " ",
     "YR2013": " ",
