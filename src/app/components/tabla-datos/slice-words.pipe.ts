@@ -9,6 +9,7 @@ export class SliceWordsPipe implements PipeTransform {
     if (value == null) return "";
 
     return value
+    .replace(/\s*\(.*?\)\s*/g, '')
     .split(" ")
     .splice(start, end)
     .join(" ");

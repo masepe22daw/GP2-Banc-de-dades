@@ -153,7 +153,7 @@ export class GraficsComponent implements OnInit {
           },
           y1: {
             type: 'linear',
-            display: true,
+            display: false,
             position: 'right',
 
             // grid line settings
