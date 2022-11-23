@@ -142,7 +142,7 @@ export class GraficsComponent implements OnInit {
         plugins: {
           title: {
             display: true,
-            text: 'Analisis de indicadores'
+            text: 'Análisis de indicadores'
           }
         },
         scales: {
